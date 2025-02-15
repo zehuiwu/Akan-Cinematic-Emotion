@@ -4,6 +4,8 @@ This is a repository for Akan Cinematic Emotions (ACE): A Multimodal Multi-party
 
 ## Introduction:
 
+<img width="1092" alt="sample_image" src="https://github.com/user-attachments/assets/e24a9cf9-7eb9-449b-adf9-71af9199d6e2" />
+
 We introduce the Akan Conversation Emotion (ACE) dataset, the first multimodal emotion dialogue dataset for an African language, addressing the significant lack of resources for low-resource languages in emotion recognition research. ACE, developed for the Akan language, contains 385 emotion-labeled dialogues and 6,162 utterances across audio, visual, and textual modalities, along with word-level prosodic prominence annotations. The presence of prosodic labels in this dataset also makes it the first prosodically annotated African language dataset.
 We demonstrate the quality and utility of ACE through experiments using state-of-the-art emotion recognition methods, establishing solid baselines for future research. 
 
